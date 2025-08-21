@@ -4,6 +4,9 @@ export default {
     "./index.html",
     "./src/**/*.{js,ts,jsx,tsx}",
   ],
+   build: {
+    outDir: 'dist'
+  },
   theme: {
     extend: {},
   },
