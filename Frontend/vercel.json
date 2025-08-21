@@ -1,4 +1,4 @@
-{
+ {
   "builds": [
     {
       "src": "package.json",
@@ -6,6 +6,12 @@
       "config": {
         "distDir": "dist"
       }
+    }
+  ],
+  "routes": [
+    {
+      "src": "/(.*)",
+      "dest": "/index.html"
     }
   ]
 }
