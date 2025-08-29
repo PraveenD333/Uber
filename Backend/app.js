@@ -12,7 +12,7 @@ import rideRouters from './Routes/ride.routes.js'
 const app = express();  
 
 app.use(cors({
-    origin: 'https://uber1235praveen.vercel.app',
+    origin: 'https://uber-zeta-five.vercel.app/',
     methods:['GET','POST','PUT','DELETE','OPTIONS'],
     allowedHeaders:['Content-Type','Authorization'],
     credentials:true
