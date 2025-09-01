@@ -59,9 +59,11 @@ Frontend (.env)
 - VITE_BASE_URL=http://localhost:5000/api
 - VITE_GOOGLE_MAPS_API_KEY=your_key
 
-## Top-level folder structure
-- Frontend/ — React client
-- Backend/ — Express API + Socket.io
+## API Documentation
+
+For detailed API documentation:
+- [Backend API Documentation](Backend/ReadMe.md)
+- [Frontend Documentation](Frontend/ReadMe.md)
 
 
 ## Frontend — detailed files & descriptions
