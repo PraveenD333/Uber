@@ -192,5 +192,3 @@ Sockets (Realtime)
 - ride-started
 - ride-completed
 - captain-location updates
-
-Refer to Backend/Controllers for full JSON request/response shape and validation details.
