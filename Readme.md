@@ -62,8 +62,8 @@ Frontend (.env)
 ## API Documentation
 
 For detailed API documentation:
-- [Backend API Documentation](Backend/ReadMe.md)
-- [Frontend Documentation](Frontend/ReadMe.md)
+- [Backend API Documentation](Backend/README.md)
+- [Frontend Documentation](Frontend/README.md)
 
 
 ## Frontend — detailed files & descriptions
